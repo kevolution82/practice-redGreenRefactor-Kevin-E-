@@ -1,0 +1,26 @@
+{
+  "name": "practice-redgreenrefactor-kevin-e-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countVowels.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevolution82/practice-redGreenRefactor-Kevin-E-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevolution82/practice-redGreenRefactor-Kevin-E-/issues"
+  },
+  "homepage": "https://github.com/kevolution82/practice-redGreenRefactor-Kevin-E-#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
